@@ -1,0 +1,104 @@
+.left-session {
+    background: url("../../assets/Back Ground.png");
+    width: 1920px;
+    height: 1008px;
+}
+
+.left-ses1 {
+    position: absolute;
+    width: 599px;
+    height: 708px;
+    top: 102px;
+    left: 50px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 38px;
+}
+
+
+.div {
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 46px;
+    width: 799px;
+    height: 70px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 125%;
+
+    letter-spacing: -0.56px;
+    flex: 1 0 0;
+}
+
+.left-ses2 div {
+    display: flex;
+    height: 64px;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 2rem;
+    align-self: stretch;
+}
+
+.left-ses2 img {
+    margin-right: 64px;
+}
+
+.left-ses2 strong {
+    color: #0096FF;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    /* 32px */
+    letter-spacing: 0.96px;
+}
+
+.left-ses2 span {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0.96px;
+}
+
+.book {
+    width: 59.456px;
+    height: 60.8px;
+    flex-shrink: 0;
+}
+
+.watch {
+    width: 57.627px;
+    height: 57.627px;
+    flex-shrink: 0;
+}
+
+.tv {
+    width: 58.667px;
+    height: 58.634px;
+    flex-shrink: 0;
+}
+
+.law {
+    width: 61.949px;
+    height: 44.809px;
+    flex-shrink: 0;
+}
+
+.ads {
+    width: 57.627px;
+    height: 57.627px;
+    flex-shrink: 0;
+}
+
+.line {
+    width: 115px;
+    height: 8px;
+    position: absolute;
+    left: 40px;
+    top: 95px;
+}
