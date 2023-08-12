@@ -96,7 +96,7 @@ function Plans({totalPrice, handlePlanChange, selectedPlan, RadioButton, Clock, 
                     </div>
 
                     <div className='buttons'>
-                        <button className='cancle'>CANCLE</button>
+                        <button className='cancle'>CANCEL</button>
                         <button className='proceed'>PROCEED TO PAY</button>
                     </div>
                     <img src={Razorpay} alt="" className='raz' />
