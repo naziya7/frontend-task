@@ -82,7 +82,7 @@ function Plans({totalPrice, handlePlanChange, selectedPlan, RadioButton, Clock, 
                             </div>
                             <div className='subs-child-p1'>
                                 <img src={Clock} alt="" />
-                                <p>Offer Valid till 25th March 2023</p>
+                                <p>Offer Valid till 15th August 2023</p>
                             </div>
                         </div>
 
